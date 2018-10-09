@@ -46,4 +46,4 @@ var library = [
    }
    console.log(getReadingStatus(1));
    console.log(getReadingStatus(0));
-console.log(getReadingStatus(2))
+console.log(getReadingStatus(2));
